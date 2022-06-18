@@ -1,0 +1,31 @@
+h1{
+	color: red;
+	background: gold;
+}
+body{
+	background: gray;
+
+}
+ul{
+	font-style: italic;
+	
+	background: gold;
+}
+.tit1{
+	color: #A60000;
+	font-size: 45px;
+
+}
+.tit2{
+	font-size: 45px;
+	color: #FF7373;
+}
+a{
+	font-size: 40px;
+	color: yellow;
+}
+p{
+	background: red;
+	color: yellow;
+	font-size: 33px;
+}
